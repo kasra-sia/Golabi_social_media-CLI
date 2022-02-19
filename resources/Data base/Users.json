@@ -1,0 +1,215 @@
+[ {
+  "firstName" : "a",
+  "lastName" : "a",
+  "username" : "a",
+  "password" : "a",
+  "email" : "a",
+  "bio" : "",
+  "birthday" : null,
+  "phoneNumber" : -1,
+  "following" : [ "c" ],
+  "followers" : [ "b" ],
+  "blacklist" : [ ],
+  "muteList" : [ ],
+  "likedTweetsAndComments" : [ ],
+  "tweets" : [ ],
+  "retweets" : [ ],
+  "chatRooms" : [ {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "a",
+    "username2" : "c",
+    "allChats" : [ {
+      "username" : "c",
+      "text" : "kakjsdf asudf kdfjkfdf",
+      "time" : "29/03/2021 16:23:57"
+    }, {
+      "username" : "c",
+      "text" : "ashbdf lajsdfs dljbhajds fasedf",
+      "time" : "29/03/2021 16:24:06"
+    }, {
+      "username" : "a",
+      "text" : "jhygdsa akdscfasd svaskhdfb ",
+      "time" : "29/03/2021 17:27:37"
+    } ],
+    "notSeen" : [ ]
+  }, {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "a",
+    "username2" : "b",
+    "allChats" : [ {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ],
+    "notSeen" : [ {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ]
+  } ],
+  "groups" : [ ],
+  "requestList" : [ ],
+  "sentRequests" : {
+    "c" : "accepted"
+  },
+  "systemNotifications" : [ "c has accepted your request", "c Unfollowed you" ],
+  "savedTweets" : [ ],
+  "lastSeen" : "02/04/2021 12:16:46",
+  "private" : false,
+  "id" : 4,
+  "lastSeenRecently" : false,
+  "active" : false,
+  "birthdayPrivate" : false,
+  "phoneNumberPrivate" : false,
+  "emailPrivate" : false
+}, {
+  "firstName" : "b",
+  "lastName" : "b",
+  "username" : "b",
+  "password" : "b",
+  "email" : "b",
+  "bio" : "?SFDv sd;fdks f",
+  "birthday" : null,
+  "phoneNumber" : 2323232,
+  "following" : [ "a" ],
+  "followers" : [ "c" ],
+  "blacklist" : [ ],
+  "muteList" : [ ],
+  "likedTweetsAndComments" : [ ],
+  "tweets" : [ {
+    "text" : "iausrf asduhfkas dfoiuasdf ipuadf oshdaf pasidfhasededf",
+    "username" : "b",
+    "replies" : [ ],
+    "time" : "29/03/2021 18:41:36",
+    "likes" : [ ]
+  }, {
+    "text" : "sbfg osydfg s9fdhg sd9f8g s-9df98g gs-df98g dffwiierai apudh h s",
+    "username" : "b",
+    "replies" : [ ],
+    "time" : "29/03/2021 18:41:52",
+    "likes" : [ ]
+  } ],
+  "retweets" : [ ],
+  "chatRooms" : [ {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "b",
+    "username2" : "c",
+    "allChats" : [ {
+      "username" : "c",
+      "text" : "29/03/2021 18:41:36 @b said : iausrf asduhfkas dfoiuasdf ipuadf oshdaf pasidfhasededf",
+      "time" : "29/03/2021 19:45:48"
+    }, {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ],
+    "notSeen" : [ ]
+  }, {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "b",
+    "username2" : "a",
+    "allChats" : [ {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ],
+    "notSeen" : [ ]
+  } ],
+  "groups" : [ ],
+  "requestList" : [ ],
+  "sentRequests" : { },
+  "systemNotifications" : [ ],
+  "savedTweets" : [ ],
+  "lastSeen" : "02/04/2021 08:15:15",
+  "private" : false,
+  "id" : 5,
+  "lastSeenRecently" : false,
+  "active" : false,
+  "birthdayPrivate" : false,
+  "phoneNumberPrivate" : false,
+  "emailPrivate" : false
+}, {
+  "firstName" : "as",
+  "lastName" : "c",
+  "username" : "c",
+  "password" : "c",
+  "email" : "c",
+  "bio" : "dsl ldlksan adskm",
+  "birthday" : 326362854600000,
+  "phoneNumber" : 1121212,
+  "following" : [ "b" ],
+  "followers" : [ "a" ],
+  "blacklist" : [ ],
+  "muteList" : [ ],
+  "likedTweetsAndComments" : [ ],
+  "tweets" : [ {
+    "text" : "klshdf alssdhf lsjds ipasdf asdf glisfgf dfgdfg",
+    "username" : "c",
+    "replies" : [ ],
+    "time" : "29/03/2021 18:42:44",
+    "likes" : [ ]
+  }, {
+    "text" : "kajsbdf k;asdf lkadhbcasd",
+    "username" : "c",
+    "replies" : [ ],
+    "time" : "02/04/2021 10:03:21",
+    "likes" : [ ]
+  } ],
+  "retweets" : [ ],
+  "chatRooms" : [ {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "c",
+    "username2" : "a",
+    "allChats" : [ {
+      "username" : "c",
+      "text" : "kakjsdf asudf kdfjkfdf",
+      "time" : "29/03/2021 16:23:57"
+    }, {
+      "username" : "c",
+      "text" : "ashbdf lajsdfs dljbhajds fasedf",
+      "time" : "29/03/2021 16:24:06"
+    }, {
+      "username" : "a",
+      "text" : "jhygdsa akdscfasd svaskhdfb ",
+      "time" : "29/03/2021 17:27:37"
+    } ],
+    "notSeen" : [ ]
+  }, {
+    "commands" : [ "backToMessagingPage", "new message", "exit" ],
+    "user" : null,
+    "username1" : "c",
+    "username2" : "b",
+    "allChats" : [ {
+      "username" : "c",
+      "text" : "29/03/2021 18:41:36 @b said : iausrf asduhfkas dfoiuasdf ipuadf oshdaf pasidfhasededf",
+      "time" : "29/03/2021 19:45:48"
+    }, {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ],
+    "notSeen" : [ {
+      "username" : "b",
+      "text" : "abcd",
+      "time" : "31/03/2021 14:20:32"
+    } ]
+  } ],
+  "groups" : [ ],
+  "requestList" : [ ],
+  "sentRequests" : { },
+  "systemNotifications" : [ ],
+  "savedTweets" : [ ],
+  "lastSeen" : "02/04/2021 10:03:40",
+  "private" : true,
+  "id" : 6,
+  "lastSeenRecently" : false,
+  "active" : false,
+  "birthdayPrivate" : false,
+  "phoneNumberPrivate" : false,
+  "emailPrivate" : false
+} ]
